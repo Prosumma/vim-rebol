@@ -1,5 +1,5 @@
 Syntax Highlighting For REBOL (3) in Vim
-====
+----
 
 I'm going to assume that anyone needing REBOL syntax highlighting for Vim is already aware that REBOL is a [http://en.wikipedia.org/wiki/Homoiconicity](homoiconic) language. Most syntax highlighting I've seen for REBOL downplays its homoiconicity, treating it as if the DO dialect were paramount. I wanted to strike a balance between the DO dialect and plain homoiconicity, and I think I've hit on it.
 
